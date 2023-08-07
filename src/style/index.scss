@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  height: 100%;
+  color: #333;
+  min-width: 1240px;
+  font: 1em/1.4 'Microsoft Yahei', 'PingFang SC', 'Avenir', 'Segoe UI',
+    'Hiragino Sans GB', 'STHeiti', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei',
+    sans-serif;
+}
+body,
+ul,
+h1,
+h3,
+h4,
+p,
+dl{
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  outline: none;
+  color: #333;
+}
+ul{
+  list-style: none;
+}
